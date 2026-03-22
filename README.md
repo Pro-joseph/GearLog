@@ -1,4 +1,5 @@
-# GearLog - SASS Project 🚀  Visit it online here ---> Josephlab.dev <---
+# GearLog - SASS Project 🚀  
+Visit it online here ---> Josephlab.dev <---
 
 A modern, responsive web component built using Bootstrap & php/mysql as part of my technical training program. modular styling, and responsive design principles.
 

@@ -1,0 +1,54 @@
+device_name,serial_number,price,status,category_id
+Laptop,"A,SN1001",4500,in stock,1
+Laptop,"B,SN1002",4700,deployed,1
+Laptop,"C,SN1003",5000,deployed,1
+Desktop,"A,SN1004",3800,in stock,2
+Desktop,"B,SN1005",4000,in stock,2
+Desktop,"C,SN1006",4200,in stock,2
+Printer,"A,SN1007",1200,under repair,3
+Printer,"B,SN1008",1500,under repair,3
+Printer,"C,SN1009",1300,under repair,3
+Router,"A,SN1010",800,under repair,2
+Router,"B,SN1011",900,deployed,1
+Router,"C,SN1012",850,under repair,2
+Switch,"A,SN1013",700,under repair,3
+Switch,"B,SN1014",750,deployed,1
+Switch,"C,SN1015",720,under repair,5
+Monitor,"A,SN1016",1100,deployed,3
+Monitor,"B,SN1017",1150,under repair,3
+Monitor,"C,SN1018",1120,deployed,2
+Keyboard,"A,SN1019",100,under repair,2
+Keyboard,"B,SN1020",120,under repair,2
+Keyboard,"C,SN1021",110,deployed,3
+Mouse,"A,SN1022",80,in stock,1
+Mouse,"B,SN1023",90,under repair,2
+Mouse,"C,SN1024",85,under repair,1
+Headset,"A,SN1025",150,deployed,3
+Monitor,"A,SN1026",700,in stock,1
+Keyboard,"A,SN1027",750,deployed,1
+Keyboard,"A,SN1028",720,deployed,1
+Keyboard,"A,SN1029",1100,in stock,2
+Mouse,"A,SN1030",1150,in stock,2
+Mouse,"A,SN1031",1120,in stock,2
+Mouse,"A,SN1032",100,under repair,3
+server,"A,SN1033",120,under repair,3
+monitor,"A,SN1034",110,under repair,3
+hp pc,"A,SN1035",80,under repair,2
+ecran,"A,SN1036",90,deployed,1
+pc hp,"A,SN1037",85,under repair,2
+pc lenovo,"A,SN1038",150,under repair,3
+pc portable,"A,SN1039",700,deployed,1
+mouse,"A,SN1040",750,under repair,5
+monitor,"A,SN1041",720,deployed,3
+hp pc,"A,SN1042",1100,under repair,3
+ecran,"A,SN1043",1150,deployed,2
+pc hp,"A,SN1044",1120,under repair,2
+pc lenovo,"A,SN1045",100,under repair,2
+pc portable,"A,SN1046",120,deployed,3
+mouse,"A,SN1047",110,in stock,1
+monitor,"A,SN1048",80,under repair,2
+hp pc,"A,SN1049",90,under repair,1
+ecran,"A,SN1050",85,deployed,3
+pc hp,"A,SN1051",150,under repair,2
+pc lenovo,"A,SN1052",150,under repair,1
+pc portable,"A,SN1053",150,deployed,3

@@ -4,17 +4,18 @@ Visit it online here ---> Josephlab.dev <---
 A modern, responsive web component built using Bootstrap & php/mysql as part of my technical training program. modular styling, and responsive design principles.
 
 ## 🛠 Tech Stack
-* **HTML5** - Semantic structure
-* ** BOOTSTRAP
-* **GitHub** - Version control
-* **PHP / PDO / CRUD / LOGIN / GIT / Mysql
+* **Frontend:** Bootstrap 5 (Responsive UI), SASS (Custom styling)
+* **Backend:** PHP (Server-side logic & Form handling)
+* **Database:** MySQL (Relational data storage)
+* **Architecture:** CRUD (Create, Read, Update, Delete) functionality
 
 ## ✨ Key Features
-* **Modular CSS:** Structured using the BEM (Block Element Modifier) (e.g., base, layout, components).
-* **Dynamic Styling:** Utilizes SASS variables for consistent color palettes and typography across the application.
-* **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop views using media queries.
-* **Reusable Mixins:** Custom mixins for handling repetitive tasks like vendor prefixing or center-aligning elements.
+* **Relational Database:** Designed a MySQL schema to store and retrieve.
+* **Dynamic Rendering:** Used PHP to fetch data from the database and display it dynamically using Bootstrap components.
+* **Secure Data Handling:** Implemented server-side validation and basic security measures for data entry.
+* **Responsive Dashboard:** A mobile-first interface built with Bootstrap, customized with SASS for a unique brand feel.
 
+  
 * ## 📸 Preview
 > *Tip: Add a screenshot or a GIF of your project here to make it stand out!*
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ec5834c-871d-4dd8-8069-61f90d335ff6" />
